@@ -1,0 +1,63 @@
+[
+ 
+  
+ 
+    {
+      "title": "PETTY CASH APP",
+      "imageSrc": "projects/project.png",
+      "description": "A full-stack MERN This is a project made to learn the latest languages.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://genuine-lebkuchen-3475a6.netlify.app/",
+      "source": "https://github.com/vishwanantha/fronendapp/tree/b381db93445b46ab0f5f4ba137cd44cfb2ec391c/fronend/app"
+    },
+    {
+      "title": "A full-stack MERN ecommerce platform ",
+      "imageSrc": "projects/project.png",
+      "description": " A full-stack MERN ecommerce platform integrating Features user authentication, product, cart, and order management.",
+      "skills": ["React", "Express", "Node" , "MongoDB" ],
+            "demo": "https://transcendent-brigadeiros-79cda4.netlify.app/",
+      "source": "https://github.com/vishwanantha/my-app.git"
+    },
+    {
+      "title": "socialapp",
+      "imageSrc": "projects/project.png",
+      "description": "A full-stack MERN This is a project made to learn the latest languages",
+      "skills": ["React", "Express", "Node" ],
+      "demo": "https://66856ca76a58b63853b81e5d--dainty-pithivier-a789c4.netlify.app/",
+      "source": "https://github.com/vishwanantha/project2.git"
+    },
+    {
+      "title": "DECIE GAME",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages",
+      "skills": ["React" ],
+      "demo": "https://endearing-dolphin-bbdab7.netlify.app/",
+      "source": "https://github.com/vishwanantha/day-17-task/tree/141339238ad738eefeecde134a0c1ed0dcfe7057/day3btask"
+    }, {
+      "title": "Restaurant APP",
+      "imageSrc": "projects/project.png",
+      "description": "A user-friendly frontend Restaurant website built with React and react-router-dom,  ",
+      "skills": ["React" ],
+      "demo": "https://668d01ec6c69571bb610a107--bejewelled-salamander-3294b8.netlify.app",
+      "source": "https://github.com/vishwanantha/vite-project.git"
+    },
+    
+    
+    {
+      "title": "NOTES APP",
+      "imageSrc": "projects/project.png",
+      "description": "A user-friendly frontend Notepad website built with React and React Redux,  ",
+      "skills": ["React" ],
+      "demo": "https://luxury-sunshine-966576.netlify.app/",
+      "source": "https://github.com/vishwanantha/React1/tree/b0d32b9c610a0304f546b3976982f92c7541fc6c/REACT/notes"
+    },
+    
+    {
+      "title": "ZetaBlogapp",
+      "imageSrc": "projects/project.png",
+      "description": "A ZetaBlogapp blog website allowing user authentication, blog creation with , user dashboards, ",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://66864e6f42fbf192d5f4e755--jovial-klepon-fd5a87.netlify.app/",
+      "source": "https://w"
+    }
+  ]
